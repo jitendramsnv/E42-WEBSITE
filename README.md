@@ -2,4 +2,5 @@
 
 ## new webpage to understand git and github
 
-Hello Team Enhance42
+_Hello Team Enhance42_
+![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
